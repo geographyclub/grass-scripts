@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A few GRASS scripts to work with remote sensing datasets.
+A few GRASS scripts to work with vegetation indices and landuse classification in remote sensing.
 
 ## Files
 
